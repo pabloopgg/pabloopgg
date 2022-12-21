@@ -1,6 +1,13 @@
+<b>EN-US</b>
 > ## "Leave the gun, take the cannoli"<img width="25" height="25" src="https://slackmojis.com/emojis/3303-cannoli/download">
 
 I'm <b>Pablo</b> - an IT specialist, and I'm here in this beautiful place to save my ideas and test them.
+
+---
+<b>PT-BR</b>
+> ## "Deixa a arma, paga o cannoli"<img width="25" height="25" src="https://slackmojis.com/emojis/3303-cannoli/download">
+
+Eu sou <b>Pablo</b> - um especialista de TI, e eu estou aqui neste lindo lugar para salvar minhas ideias e testa-las.
 
 <!--
 ### Hi there 👋
