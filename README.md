@@ -1,6 +1,6 @@
 > ## "Leave the gun, take the cannoli"<img width="25" height="25" src="https://slackmojis.com/emojis/3303-cannoli/download">
 
-I'm <b>Pablo</b> - an IT specialist, and I'm here in this beautiful place to test my ideas and test them.
+I'm <b>Pablo</b> - an IT specialist, and I'm here in this beautiful place to save my ideas and test them.
 
 <!--
 ### Hi there 👋
