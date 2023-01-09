@@ -1,5 +1,5 @@
 <b>PT-BR</b>
-> ## "Deixa a arma, pague o cannoli"<img width="25" height="25" src="https://slackmojis.com/emojis/3303-cannoli/download">
+> ## "Deixe a arma, pague o cannoli"<img width="25" height="25" src="https://slackmojis.com/emojis/3303-cannoli/download">
 
 Eu sou <b>Pablo</b> - um especialista de TI, e eu estou aqui neste lindo lugar para salvar minhas ideias e testa-las.
 
